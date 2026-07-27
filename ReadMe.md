@@ -24,8 +24,6 @@
 
 ![Kilian's GitHub stats](https://github-readme-stats-mu-teal-73.vercel.app/api?username=KilianMayerhoferBollek&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KilianMayerhoferBollek&theme=dark&hide_border=false)
-
 ![Top Languages](https://github-readme-stats-mu-teal-73.vercel.app/api/top-langs/?username=KilianMayerhoferBollek&theme=dark&hide_border=false&layout=compact&langs_count=8&cache_seconds=86400)
 
 ---
